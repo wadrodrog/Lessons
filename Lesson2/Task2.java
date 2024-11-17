@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Task2_2 {
+public class Task2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int hours = scanner.nextInt();

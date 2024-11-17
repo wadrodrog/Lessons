@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Task2_6 {
+public class Task6 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int m = scanner.nextInt(), n = scanner.nextInt();

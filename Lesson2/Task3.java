@@ -1,7 +1,7 @@
 import java.util.*;
 import java.lang.Math;
 
-public class Task2_3 {
+public class Task3 {
     private static int menu(Scanner scanner) {
         System.out.println("1) Возвести число в квадрат");
         System.out.println("2) Извлечь корень квадратный");
